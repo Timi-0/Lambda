@@ -63,5 +63,3 @@ if DeleteDate <= datetime.datetime.now(snapshot['DBSnapshots'][0]['SnapshotCreat
 )
 else:
     print("No snapshots to delete")
-copy-automated-snapshots-and-delete-manual-snapshots.py
-Displaying copy-automated-snapshots-and-delete-manual-snapshots.py.
